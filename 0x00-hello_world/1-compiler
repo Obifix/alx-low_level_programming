@@ -1,0 +1,2 @@
+gcc -E $CFILE -o 1-compiler
+
